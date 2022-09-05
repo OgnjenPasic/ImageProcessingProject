@@ -11,4 +11,4 @@ Also, in the repository I included a few .tif images for anyone willing to try o
 Obviously there is a lot of room for improvement. The project has many bugs we are aware of, and probably even more those that we aren't aware of.
 Having that in mind, I think we actually did a nice job with this project, considering the fact that we spent a few weeks of occasional programming.
 
-Thansks for reading :)
+Thanks for reading :)
