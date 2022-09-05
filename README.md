@@ -1,6 +1,6 @@
 # ImageProcessingProject
 
-This was a fun project, which one coleague and I made for Introduction to Image Processing course, on Faculty of Sciences, University of Novi Sad.
+This was a fun project, which one coleague and I made for Introduction to Image Processing course, at Faculty of Sciences, University of Novi Sad.
 The goal was to make a program which applies filters to a specific image, using basic libraries(mostly Numpy) and a lot of math.
 
 The  project consists of two .py files. One of those files (filters.py) contains functions which are doing the processing of the image.
